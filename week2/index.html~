@@ -9,7 +9,10 @@
 		<meta name="viewport" content="width=device-width, user-scalable=no" />
 		
 		<link href="style.css" rel="stylesheet" type="text/css">
+<<<<<<< HEAD
 		
+=======
+>>>>>>> 8865913693746c227d84e5de89407297f0367e59
 	</head>
 
 	<body>
@@ -32,6 +35,7 @@
 		</script>
 		<script type="text/javascript">
 		
+<<<<<<< HEAD
 		
 		var count = 30;
 var counter = setInterval(timer, 1000); 
@@ -54,5 +58,8 @@ function timer() {
         
     });
 });
+=======
+		</script>
+>>>>>>> 8865913693746c227d84e5de89407297f0367e59
 	</body>
 </html>
